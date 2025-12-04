@@ -1,8 +1,6 @@
 """
 Day 2: Gift Shop
-Link to Problems:
-https://adventofcode.com/2025/day/2
-You have to remove and add a bunch of invalid IDs from a database.
+Link to Problems: https://adventofcode.com/2025/day/2
 """
 from traceback import print_tb
 

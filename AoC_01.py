@@ -1,7 +1,6 @@
 """
 Day 1: Secret Entrance
-Link to Problems:
-https://adventofcode.com/2025/day/1
+Link to Problems: https://adventofcode.com/2025/day/1
 """
 from math import floor
 
