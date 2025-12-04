@@ -1,0 +1,21 @@
+#All Files that should not be commited to git:
+# Ignore all log files
+*.log
+
+# Ignore node_modules folder (for Node.js projects)
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore build output folder
+dist/
+
+#ignore all real input filles
+real*
+
+# Ignore all __pycache__ folders
+__pycache__/
+
+# Ignore all .idea folders
+.idea/
