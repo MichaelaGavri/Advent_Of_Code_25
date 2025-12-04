@@ -13,6 +13,7 @@ dist/
 
 #ignore all real input filles
 real*
+sample*
 
 # Ignore all __pycache__ folders
 __pycache__/
